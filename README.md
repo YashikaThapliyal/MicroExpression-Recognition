@@ -19,3 +19,10 @@ This project implements a micro-expression recognition system using Python. It u
    git clone https://github.com/YashikaThapliyal/MicroExpression-Recognition.git
    cd MicroExpression-Recognition
 
+
+Technologies Used
+Python: Programming language for core logic and script execution.
+OpenCV: For real-time computer vision tasks.
+NumPy: To handle data arrays efficiently.
+Haar Cascades: For pre-trained face detection.
+LBPH (Local Binary Pattern Histogram): For facial recognition.
