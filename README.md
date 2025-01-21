@@ -1,4 +1,4 @@
-# Micro Expression Recognition Using Python
+# Micro-Expression Recognition Using CNN
 
 ## Overview
 This project implements a micro-expression recognition system using Python. It utilizes the FER-2013 dataset for training and includes a real-time expression recognition module. The system can detect various micro-expressions to provide insights into human emotions.
@@ -17,12 +17,18 @@ This project implements a micro-expression recognition system using Python. It u
 1. Clone the repository:
    ```bash
    git clone https://github.com/YashikaThapliyal/MicroExpression-Recognition.git
+2. Navigate to the project directory:
+   ```bash
    cd MicroExpression-Recognition
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
 
+---
 
-Technologies Used
-Python: Programming language for core logic and script execution.
-OpenCV: For real-time computer vision tasks.
-NumPy: To handle data arrays efficiently.
-Haar Cascades: For pre-trained face detection.
-LBPH (Local Binary Pattern Histogram): For facial recognition.
+## Technologies Used
+- **Python**: Programming language for core logic and script execution.
+- **OpenCV**: For real-time computer vision tasks.
+- **NumPy**: To handle data arrays efficiently.
+- **Haar Cascades**: For pre-trained face detection.
+
