@@ -16,6 +16,6 @@ This project implements a micro-expression recognition system using Python. It u
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/micro-expression-recognition.git
-   cd micro-expression-recognition
+   git clone https://github.com/YashikaThapliyal/MicroExpression-Recognition.git
+   cd MicroExpression-Recognition
 
